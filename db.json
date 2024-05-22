@@ -1,0 +1,28 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"email": "user1@email.com",
+			"password": "nv123",
+			"userType": "superadmin"
+		},
+		{
+			"id": 2,
+			"email": "user2@email.com",
+			"password": "nv456",
+			"userType": "admin"
+		},
+		{
+			"id": 3,
+			"email": "user3@email.com",
+			"password": "nv789",
+			"userType": "auxiliar"
+		},
+		{
+			"id": 4,
+			"email": "user4@email.com",
+			"password": "nv000",
+			"userType": "emprendimiento"
+		}
+	]
+}
