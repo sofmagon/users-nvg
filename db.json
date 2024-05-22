@@ -4,25 +4,33 @@
 			"id": 1,
 			"email": "user1@email.com",
 			"password": "nv123",
-			"userType": "superadmin"
+			"userType": "superadmin",
+			"name": "Ted",
+			"lastname": "Lasso"
 		},
 		{
 			"id": 2,
 			"email": "user2@email.com",
 			"password": "nv456",
-			"userType": "admin"
+			"userType": "admin",
+			"name": "Rebecca",
+			"lastname": "Welton"
 		},
 		{
 			"id": 3,
 			"email": "user3@email.com",
 			"password": "nv789",
-			"userType": "auxiliar"
+			"userType": "auxiliar",
+			"name": "Dwight",
+			"lastname": "Schrute"
 		},
 		{
 			"id": 4,
 			"email": "user4@email.com",
 			"password": "nv000",
-			"userType": "emprendimiento"
+			"userType": "emprendimiento",
+			"name": "Michael",
+			"lastname": "Scott"
 		}
 	]
 }
